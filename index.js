@@ -19,7 +19,7 @@ const sendBulkEmails = async () => {
       from: `Sheila Labuguen <${process.env.EMAIL}>`,
       to: recipient.email,
       subject: "Modan Loft",
-      html: inquiryEmail(recipient.firstName),
+      html: inquiryEmail(recipient.name),
       attachments: attachments,
     };
 

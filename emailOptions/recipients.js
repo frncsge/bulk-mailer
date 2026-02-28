@@ -4,5 +4,4 @@ export const recipients = [
   { name: "Nop Ily Cy", email: "xyrieltalledo0@gmail.com" },
   { name: "Ernesto Argana", email: "ernestoargana911@gmail.com" },
   { name: "Joseph Labuguen", email: "labuguenkarl35@gmail.com"},
-  { name: "Francis Amoncio", email: "fryingpanislife@gmail.com"},
 ];

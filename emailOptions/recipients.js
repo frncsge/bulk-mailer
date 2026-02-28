@@ -1,4 +1,8 @@
 export const recipients = [
-  { firstName: "Joseph", email: "labuguenkarl35@gmail.com" },
-  { firstName: "Francis", email: "amoncio.francis_ge@hnu.edu.ph" },
+  { name: "Arcedillo Babao", email: "ollidecrababaoaborde@gmail.com" },
+  { name: "Master Pogi Fajutnao", email: "andrewcitofajutnao@gmail.com" },
+  { name: "Nop Ily Cy", email: "xyrieltalledo0@gmail.com" },
+  { name: "Ernesto Argana", email: "ernestoargana911@gmail.com" },
+  { name: "Joseph Labuguen", email: "labuguenkarl35@gmail.com"},
+  { name: "Francis Amoncio", email: "fryingpanislife@gmail.com"},
 ];
